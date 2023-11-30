@@ -1,0 +1,14 @@
+var addValue=1+2;
+var subValue=3-2;
+var mulValue=2*3;
+var divValue=10/2;
+var Greaterthan= 10>5;
+var LessThan= 10<5;
+var Equalto= 5==5;
+console.log('addValue', addValue);
+console.log('subValue',subValue);
+console.log('mulValue', mulValue);
+console.log('divValue', divValue);
+console.log('Greaterthan', Greaterthan);
+console.log('LessThan', LessThan);
+console.log('Equalto', Equalto);
